@@ -1,0 +1,25 @@
+Commands used to complete this task:
+
+1> git status -> helps to check the status of the working tree.
+
+2> git clone <url> -> clones repository from the github into a new folder in the computer.
+
+3> git branch <name> -> helps to create a new branch of specified name.
+
+4> git checkout <name> -> it helps us switch to the branch of name <name> that we created before.
+
+5> git add <filename> -> adds file to the staging area for next commit.
+
+6> git merge <branchname> -> it merges the branch <branchname> into the current branch.
+
+7> git commit -m "<message>" -> it commits the changes in the staged content as a new commit with the <message>.
+
+8> touch <filename> -> creates a file of name <filename> inside the current branch.
+
+9> git config --global user.name <username> -> sets a name identifying the user that commits changes.
+
+10> git config --global user.email <email> -> sets an email address that will be associated with the user.
+
+11> git remote -> shows the name of url from where it came from, for eg: origin as default.
+
+12> git push <origin> <branchname> -> pushes the branch to the remote repository on github.
